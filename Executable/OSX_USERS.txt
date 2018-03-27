@@ -1,0 +1,9 @@
+OSX system do not come with a JRE (Java Runtine Environment) automatically installed, but
+
+a JRE is required to run/use this program please go here: 
+
+http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+: and download and instal a JRE for your machine, either JRE should work, however, if you find
+
+that one of them does not please inform me at darianlhorn@gmail.com
