@@ -1,4 +1,4 @@
-OSX system do not come with a JRE (Java Runtine Environment) automatically installed, but
+OSX systems do not come with a JRE (Java Runtine Environment) automatically installed, but
 
 a JRE is required to run/use this program please go here: 
 
