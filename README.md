@@ -3,9 +3,8 @@ An auto-clicker made using the JNativeHook library created by Alex Barker (kwhat
 
 # Planned Updates and Improvements
 I am planning on improving some aspects of this program, below is a list of what I plan on doing.
-1. Change the GUI from Swing to JavaFX, I am currently in the process of learning the basics of JavaFX
-2. Add control customization
-3. Add burst click, performs X amount of clicks when a button is pressed
+1. Add control customization
+2. Add burst click, performs X amount of clicks when a button is pressed
 
 # About Me
 My name is Darian Horn and, at the time of posting this, I am currently a Senior in high school. My school does offer multiple programming related course, however, I have already taken most of them and they do not go to far into their respective languages. This was my first attempt at using a custom library, ExecuterService, and Robot so I do not know if there would be any better way of accomplishing an Auto-clicker.
